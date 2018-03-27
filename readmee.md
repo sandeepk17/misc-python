@@ -1,2 +1,2 @@
-¤ my portfoli
+# my sample portfolio
 this is my portfolio
